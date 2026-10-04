@@ -1,0 +1,9 @@
+[project]
+name = "axiom-symbolic"
+version = "0.2.0"
+description = "Exact symbolic verifier for the Axiom one-variable QF-LIA fragment"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 100
