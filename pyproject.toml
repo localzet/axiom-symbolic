@@ -1,4 +1,5 @@
 [project]
+maintainers = [{name = "Ivan Zorin", email = "creator@localzet.com"}]
 name = "axiom-symbolic"
 version = "0.2.0"
 description = "Exact symbolic verifier for the Axiom one-variable QF-LIA fragment"
